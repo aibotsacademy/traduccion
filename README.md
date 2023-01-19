@@ -13,3 +13,19 @@
 - 12- Bet on Yourself, Playfast, Play Harder.
 - 13- Digital Wallet
 - 14- Logout
+
+![Formulario Retos](https://i.ibb.co/gSbpGsN/PF2.jpg)
+- 15- Create a challenge
+- 16- Create a public challenge, including the amount, dates and time for this event.
+- 17- Name of the challenge
+- 18- Version of the Game (Example: 2022)
+- 19- Platform
+- 20- Amount to Play
+- 21- Playfast charges 10% of commission of the total amount of the challenge.
+- 22- Contact method (For example phone number, email or player ID/ Username of the console.)
+- 23- Select one or mulriple times and dates for this challenge.
+- 24- Option 1- Date & Time for the event
+- 25- Option 2- Date & Time for the event (optional)
+- 26- Option 3- Date & Time for the event (optional)
+- 27- Cancel 
+- 28- Create Challenge
