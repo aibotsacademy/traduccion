@@ -1,5 +1,5 @@
 ![Página de Inicio](https://i.ibb.co/kSD565M/PF.jpg)
-- 1) Home
+- 1. Home
 - 2) Challenges
 - 3) Categories
 - 4) All
