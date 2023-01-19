@@ -29,3 +29,14 @@
 - 26- Option 3- Date & Time for the event (optional)
 - 27- Cancel 
 - 28- Create Challenge
+
+![Billetera Digital](https://i.ibb.co/pxLf7Dw/PF3.jpg)
+- 29- Back
+- 30- Digital Wallet
+- 31- Available Balance
+- 32- Add Funds
+- 33- Movements
+- 34- Date of Transaction
+- 35- Type of Transaction
+- 36- Detail
+- 37- Amount 
