@@ -1,4 +1,4 @@
-![Página de Inicio](https://i.ibb.co/4JDfnGd/PF.jpg)
+![Página de Inicio](https://i.ibb.co/hVT7gvB/PF.jpg)
 - 1- Home
 - 2- Challenges
 - 3- Categories
@@ -11,3 +11,5 @@
 - 10- Multiplayer
 - 11- Others
 - 12- Bet on Yourself, Playfast, Play Harder.
+- 13- Digital Wallet
+- 14- Logout
