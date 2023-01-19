@@ -1,4 +1,4 @@
-![Página de Inicio](https://i.ibb.co/kSD565M/PF.jpg)
+![Página de Inicio](https://i.ibb.co/4JDfnGd/PF.jpg)
 - 1- Home
 - 2- Challenges
 - 3- Categories
@@ -10,3 +10,4 @@
 - 9- Battles
 - 10- Multiplayer
 - 11- Others
+- 12- Bet on Yourself, Playfast, Play Harder.
