@@ -40,3 +40,5 @@
 - 35- Type of Transaction
 - 36- Detail
 - 37- Amount 
+
+![Login](https://i.ibb.co/9YBtwHJ/traducc.jpg)
