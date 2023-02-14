@@ -42,3 +42,12 @@
 - 37- Amount 
 
 ![Login](https://i.ibb.co/9YBtwHJ/traducc.jpg)
+- 38- Cambiar Logo
+- 39- Login
+- 40- User
+- 41- Password
+- 42- Enter
+- 43- Register
+- 44- Forgot Password?
+
+
