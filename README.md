@@ -50,4 +50,13 @@
 - 43- Register
 - 44- Forgot Password?
 
+![Retos](https://i.ibb.co/ScDr067/Challenge.jpg))
+- 45- Challenges
+- 46- My Challenges
+- 47- Pool Prize
+- 48- $X by player
+- 49- Completed/Pending/On Process
+- 50- Challenge Again
+
+
 
